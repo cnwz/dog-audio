@@ -3,7 +3,7 @@
  * key 对应 audio/ 下的子目录名。加新包：建目录、这里加一行、拷贝同名文件进去。
  * @type {Object.<string, {name: string, desc: string}>}
  */
-const VOICE_PACKS_DOUBAO = {
+const VOICE_PACKS = {
     'zh_female_tuanzi_uranus_bigtts':          { name: '团子', desc: '2.0 通用女声' },
     'zh_female_vv_uranus_bigtts':              { name: 'Vivi', desc: '2.0 多语种/方言女声' },
     'zh_female_cancan_uranus_bigtts':          { name: '知性灿灿', desc: '2.0 知性女声' },

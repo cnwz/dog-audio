@@ -3,7 +3,7 @@
  * key 对应 audio/ 下的子目录名。加新包：建目录、这里加一行、拷贝同名文件进去。
  * @type {Object.<string, {name: string, desc: string}>}
  */
-const VOICE_PACKS_QWEN = {
+const VOICE_PACKS = {
     'longanlingxin_v3.1':  { name: '龙安灵心', desc: '知心温暖女声' },
     'xunanchuan_v3.1':     { name: '许南川', desc: '男声' },
     'longanhuan_v3.1':     { name: '龙安欢', desc: '女声' },
